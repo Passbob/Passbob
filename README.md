@@ -45,4 +45,3 @@
 <a href="https://www.instagram.com/h_seok.0512/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
 
-<!--행을 지울때는 shift+x-->
