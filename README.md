@@ -13,8 +13,25 @@
 </p>
 <br>
 <br>
+<p align="center">
+    <Strong>📨E-mail📩</Strong><br><br>
+</p>
+
+<p align="center">
+    <mark>gudjtr097@gmail.com</mark><br><br>
+</p>
 <br>
 <br>
+<p align="center">
+    <Strong>⚙Tech stack⚙</Strong><br><br>
+</p>
+<p align="center">
+<ins>아직 없음...</ins>
+</p>
+<br>
+<br>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Passbob)](https://github.com/anuraghazra/github-readme-stats)
 <br>
